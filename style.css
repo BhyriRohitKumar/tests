@@ -64,11 +64,11 @@
 		.wrapper{
 			display: flex;
 			width: 100%;
-			margin-top:40px;
+
 			height: calc(100vh - 80px);
 			align-items: center;
 			padding: 10%;
-			margin-top:35px;
+			margin-top:30px;
 		}
 		.cols{
 			margin-top:100px;
