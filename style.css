@@ -11,6 +11,9 @@
 			background-repeat:no-repeat;
 			background-attachment:fixed;
 		}
+		.counter{
+			margin-top:20px;
+		}
 		p{
 			font-size:20px;
 			font-family: 'Times New Roman', Times, serif;
